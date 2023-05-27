@@ -1,7 +1,7 @@
 # Light-Guide
 
  A simple package that allows party leaders to call out commands to their party. This package comes equipped with alliases that 
- are able to be changed to in the aliases folder if they conflict with existing.
+ are able to be changed in the aliases folder if they conflict with existing.
  
  # Leader Commands
  Balance/On Balance        Enemies
