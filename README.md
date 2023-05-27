@@ -3,6 +3,28 @@
  A simple package that allows party leaders to call out commands to their party. This package comes equipped with alliases that 
  are able to be changed in the aliases folder if they conflict with existing.
  
+ # Version.02 Info
+
+Config
+- Added LGON to enable the package
+- Added LGOFF to disable the package
+
+In-Game Help
+- Added Ally party in which I missed
+
+
+Alerts -
+
+- Added alert for Vodun / Puppetry Summon
+- Adeed alert for Terminus Litany
+- Added alert for Tarot Aeon Card hit
+- Added alert for Taret Aeon Card failed
+- Added alert for being struck by an arrow
+- Added alert for all Meteor lines
+- Added alert for getting breathstreamed
+ 
+ 
+ 
  # Version.01 Info
  Additions
  - Monk Deliverance added to group vision
